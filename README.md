@@ -9,7 +9,8 @@ Installs on a phone like an app and works well on mobile.
 Tech stack
 React, Next.js, TypeScript, Node.js, Tailwind CSS, PostgreSQL, Progressive Web App (PWA) technologies, deployed on Vercel.
 Screenshots
-Add 2 or 3 screenshots here. Do not show real student names or photos.
+I have attached screenshots of the project above.
+
 Source code
 The source code is private because the project handles school data. I am happy to walk through it in an interview or share access on request.
 Author
